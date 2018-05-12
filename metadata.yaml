@@ -1,5 +1,8 @@
 _repo: The-World-Decision_8529
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Herrick, Robert
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2657
     wikipedia: http://en.wikipedia.org/wiki/Robert_Herrick_(novelist)
 description: 'T. 01: Italy ; T. 02: France ; T. 03: America.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8529#The-World-Decision
 gutenberg_issued: '2005-07-01'
 gutenberg_type: Text
 identifiers:
